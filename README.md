@@ -13,7 +13,7 @@
 3. Material Ui
 4. React icons
 5. firebase
-6. Node.js(Express)
+6. Node.js(Express.js)
 7. MongoDB
 8. ImageBB
 9. Heroku
